@@ -1,2 +1,2 @@
-## [SpaceFolio](https://www.navarro-benjamin.com/)
+## [SpaceFolio](https://navarro-benjamin.vercel.app/)
 Navarro Benjamin - 2022
