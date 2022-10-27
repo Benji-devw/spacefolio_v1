@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import Layout from '@/structures/Layout'
-
+import { Station } from '../features/hero_Features';
 
 const Home: NextPage = () => {
   return (
@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <h1>Spacefolio Navarro Benjamin</h1>
         <h3>en développement...</h3>
       </div>
-      {/* <div id="Station"><Station /></div>  */}
+      <div id="Station"><Station /></div> 
     </Layout>
   )
 }
